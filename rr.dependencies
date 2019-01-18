@@ -11,27 +11,27 @@
     "repository":  "vjspranav/proprietary_vendor_yu",
     "target_path": "vendor/yu/garlic",
     "branch":      "pie"
-  }
+  },
 
   {
     "remote":      "github",
     "repository":  "androidosp/android_hardware_qcom_display",
-    "target_path": "hardware/qcom/display-caf/msm8996",
+    "target_path": "hardware/qcom/display-caf/msm8937",
     "branch":      "pie-caf-8996"
   },
 
   {
     "remote":      "github",
     "repository":  "androidosp/android_hardware_qcom_audio",
-    "target_path": "hardware/qcom/audio-caf/msm8996",
+    "target_path": "hardware/qcom/audio-caf/msm8937",
     "branch":      "pie-caf-8996"
   },
 
   {
     "remote":      "github",
     "repository":  "androidosp/android_hardware_qcom_media",
-    "target_path": "hardware/qcom/media-caf/msm8996",
+    "target_path": "hardware/qcom/media-caf/msm8937",
     "branch":      "pie-caf-8996"
-  },
+  }
 
 ]
